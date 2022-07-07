@@ -1,0 +1,29 @@
+body{
+    background-image: url("/dXumMs.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;   
+
+}
+
+.card {
+   
+    color: aliceblue;
+    text-align: center;
+    width: 20.5rem;
+    height: 25rem;
+    background-size: cover;
+    background-color: black;
+    border-radius: 20px;
+    background-position: center center;
+    overflow: hidden;
+}
+
+.container{
+    padding-bottom: 5px;
+}
+
+img {
+    width: 20rem;
+    height: 20rem;
+
+}
